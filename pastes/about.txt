@@ -1,0 +1,27 @@
+
+<----------------------------------------->
+|                                         |
+|  __  __ _       ____           _        |
+| |  \/  (_)_ __ |  _ \ __ _ ___| |_ ___  |
+| | |\/| | | '_ \| |_) / _` / __| __/ _ \ |
+| | |  | | | | | |  __/ (_| \__ \ ||  __/ |
+| |_|  |_|_|_| |_|_|   \__,_|___/\__\___| |
+|                                         |
+|            by 0x0verflow.cf             |
+|                                         |
+<----------------------------------------->
+
+MinPaste is a lightweight minimal text-hosting software made using PHP and HTML5.
+
+You are allowed to:
+ - Host this software on your own server!
+ - Make changes to the software!
+
+You are not allowed to:
+ - Use the software commercially!
+ - Upload this software (as yours and not as yours) in any form except as a website on a webserver!
+
+
+If you like my work, you can have a look at my GitHub (0x0verflow) or my Website (0x0verflow.cf).
+
+Thanks for using my software. If you edit this file (pastes/about.txt) you have to credit me!

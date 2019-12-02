@@ -20,3 +20,7 @@ You are not allowed to:
 
 
 # Don't use this shit for real purposes, it's vulnerable as fuck
+For example:
+ - XSS
+ - CSRF
+ - Shellcode injection (?; depends on PHP somehow)

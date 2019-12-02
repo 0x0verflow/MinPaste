@@ -17,3 +17,6 @@ You are allowed to:
 You are not allowed to:
  - Use the software commercially!
  - Upload this software (as yours and not as yours) in any form except as a website on a webserver!
+
+
+# Don't use this shit for real purposes, it's vulnerable as fuck

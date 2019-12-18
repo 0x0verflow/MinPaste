@@ -2,7 +2,7 @@
 A lightweight minimal text-hosting tool for self-hosting
 
 ## About
-MinPaste is a text-hosting tool written in PHP and HTML5. It works out-of-the-box and is easy to use. I made it in 2h, so there my be bugs.
+MinPaste is a text-hosting tool written in PHP and HTML5. It works out-of-the-box and is easy to use. I made it in 2h, so there may be bugs.
 
 ## Installation
 Just download the latest release and upload it to your webserver. Done!

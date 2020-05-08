@@ -23,4 +23,5 @@ You are not allowed to:
 For example:
  - XSS
  - CSRF
- - Shellcode injection (?; depends on PHP somehow)
+ - LFI
+ - RCE (?; depends on PHP somehow)

@@ -19,7 +19,7 @@ You are not allowed to:
  - Upload this software (as yours and not as yours) in any form except as a website on a webserver!
 
 
-# Don't use this shit for real purposes, it's vulnerable as fuck
+# Known vulnerabilites / Don't use this project seriously
 For example:
  - XSS
  - CSRF
